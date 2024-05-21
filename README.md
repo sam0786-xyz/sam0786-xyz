@@ -22,7 +22,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sam0786-xyz&show_icons=true&theme=radical) ![](https://github-readme-streak-stats.herokuapp.com/?user=sam0786-xyz&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sam0786-xyz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
-![Snake animation](https://github.com/sam0786-xyz/sam0786-xyz/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/sam0786-xyz/sam0786-xyz/output/github-contribution-grid-snake.svg)
 
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
