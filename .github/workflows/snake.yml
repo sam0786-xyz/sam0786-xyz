@@ -1,0 +1,28 @@
+name: Generate Snake
+
+on:
+  schedule: # runs at every 24 hours
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Generate Snake
+        uses: Platane/snk@v2
+        with:
+          github_user_name: sam0786-xyz 
+          output: dist/snake.svg
+
+      - name: Push to the output branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          force_orphan: true
+          user_name: sam0786-xyz 
+          user_email: sam0786.xyz@icloud.com
