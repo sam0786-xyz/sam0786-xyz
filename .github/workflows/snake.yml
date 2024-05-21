@@ -15,14 +15,13 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v2
         with:
-          github_user_name: sam0786-xyz 
-          output: dist/snake.svg
+          github_user_name: sam0786-xyz # Replace with your GitHub username
+          output: README.md
 
-      - name: Push to the output branch
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          force_orphan: true
-          user_name: sam0786-xyz 
-          user_email: sam0786.xyz@icloud.com
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Update snake animation" || echo "No changes to commit"
+          git push
