@@ -29,7 +29,20 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sam0786-xyz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
 
 ### 🐍 Contribution Snake:
-![snake animation](https://github.com/sam0786-xyz/snk/raw/output/github-contribution-grid-snake.svg)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
