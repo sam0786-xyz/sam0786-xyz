@@ -1,10 +1,12 @@
 # 🙌 Hey, I'm Mohammad Sameer
-🤖I’m an AI ML Developer.<br>
-☁️I’ve proficient knowledge of major cloud platforms like AWS, GCP & Azure.<br>
-🎓Currently a sophomore B.Tech. CS with AI ML student at Sharda University.
+
+🤖 I’m an AI ML Developer.<br>
+☁️ I have proficient knowledge of major cloud platforms like AWS, GCP, and Azure.<br>
+🎓 Currently a sophomore B.Tech. CS with AI ML student at Sharda University.
 
 ## 🌐 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://linkedin.com/in/connect-to-sam-xyz) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/connect-to-sam-xyz) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/sam0786.xyz/)
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -16,15 +18,18 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sam0786-xyz&show_icons=true&theme=radical) ![](https://github-readme-streak-stats.herokuapp.com/?user=sam0786-xyz&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sam0786-xyz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
+
 <p>
 <picture>
-<img src="https://raw.githubusercontent.com/sam0786-xyz/sam0786-xyz/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/sam0786-xyz/sam0786-xyz/gh-pages/github-contribution-grid-snake.svg" />
 </picture>
 </p>
 
