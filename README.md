@@ -20,10 +20,11 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 
 ## Important Repos
+- MACHINE_LEARNING MODELS
 [!][ML_Models](https://github.com/sam0786-xyz/sam0786-xyz/ML)
 
 ## 🌐 Let's Connect:
-[!][Website](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=browser&logoColor=white)](https://connect-to-sam.me) 
+🌐[!][Website](https://connect-to-sam.me) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/connect-to-sam-xyz) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/sam0786.xyz/)
 
