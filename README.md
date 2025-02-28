@@ -21,7 +21,7 @@
 
 ## Important Repos
 - MACHINE_LEARNING MODELS 
-[ML_Models]([https://github.com/sam0786-xyz/sam0786-xyz/ML](https://github.com/sam0786-xyz/Machine-Learning))
+![ML_Models](https://github.com/sam0786-xyz/Machine-Learning)
 
 ## 🌐 Let's Connect:
 🌐[Website](https://connect-to-sam.me) 
