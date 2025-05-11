@@ -39,14 +39,5 @@
 
 ---
 
-## 🐍 Contribution Snake Animation
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sam0786-xyz/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sam0786-xyz/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation of GitHub contributions" src="https://raw.githubusercontent.com/sam0786-xyz/snk/output/github-contribution-grid-snake.svg" />
-</picture>
-
----
 
 [![](https://visitcount.itsvg.in/api?id=sam0786-xyz&icon=0&color=0)](https://visitcount.itsvg.in)
