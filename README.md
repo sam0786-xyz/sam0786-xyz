@@ -33,7 +33,7 @@
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sam0786-xyz&show_icons=true&theme=radical&count_private=true)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=highcontrast)]
+![GitHub Streak](https://streak-stats.demolab.com/?user=sam0786-xyz&theme=highcontrast)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sam0786-xyz&theme=dark&layout=compact&hide_border=false)
 
 ---
