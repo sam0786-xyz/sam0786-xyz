@@ -1,6 +1,6 @@
 # 🙌 Hi there, I'm Mohammad Sameer
 
-🎓 Junior Year B.Tech. CS (AI & ML) student at **Sharda University**  
+🎓 Final Year B.Tech. CS (AI & ML) student at **Sharda University**  
 🤖 Passionate AI/ML Developer | ☁️ Cloud Enthusiast (AWS • Azure • GCP)
 
 ---
