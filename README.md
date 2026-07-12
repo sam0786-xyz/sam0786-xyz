@@ -31,7 +31,7 @@ Building intelligent systems with LLMs, RAG pipelines, scalable backend architec
 # 🚀 About Me
 
 🎓 B.Tech in Computer Science (AI & ML Specialization) at **Sharda University**  
-💼 Generative AI Developer Intern at **AI Zoned** :contentReference[oaicite:0]{index=0}  
+💼 Generative AI Developer Intern at **Klip Kanvas**  
 🧠 Focused on **Generative AI, LLM Engineering, RAG Systems, Backend APIs, and Cloud AI Infrastructure**
 
 I enjoy building scalable AI systems that solve real-world problems instead of isolated demo projects.
@@ -124,8 +124,8 @@ Currently exploring:
 
 # 💼 Experience
 
-## 🧠 Generative AI Developer Intern — AI Zoned
-📍 Gurugram, Haryana  
+## 🧠 Generative AI Developer Intern — Klip Kanvas
+📍 Remote
 📅 Oct 2025 – Present :contentReference[oaicite:1]{index=1}
 
 ### Key Contributions
