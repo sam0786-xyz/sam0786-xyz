@@ -31,7 +31,7 @@ Building intelligent systems with LLMs, RAG pipelines, scalable backend architec
 # 🚀 About Me
 
 🎓 B.Tech in Computer Science (AI & ML Specialization) at **Sharda University**  
-💼 Generative AI Developer Intern at **Klip Kanvas**  
+💼 AI Engineer at **PrudentBit**  
 🧠 Focused on **Generative AI, LLM Engineering, RAG Systems, Backend APIs, and Cloud AI Infrastructure**
 
 I enjoy building scalable AI systems that solve real-world problems instead of isolated demo projects.
