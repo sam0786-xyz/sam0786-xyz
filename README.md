@@ -32,7 +32,7 @@ My strongest interests sit at the intersection of **Generative AI, applied machi
 | Discipline | Focus |
 |---|---|
 | **Generative AI** | LLM applications, RAG, semantic retrieval, structured outputs, tool use, agent workflows |
-| **Applied ML & Computer Vision** | Model training and inference, YOLO-based detection, OCR, object tracking |
+| **Applied ML** | Model training and inference |
 | **Backend Engineering** | Python, FastAPI, REST APIs, authentication, webhooks, asynchronous workflows |
 | **Data & Automation** | Web scraping, validation, ingestion pipelines, email and event automation |
 | **Cloud & Deployment** | AWS, GCP, Docker, managed databases, CI workflows |
