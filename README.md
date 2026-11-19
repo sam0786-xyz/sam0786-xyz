@@ -37,7 +37,7 @@ My strongest interests sit at the intersection of **Generative AI, applied machi
 | **Data & Automation** | Web scraping, validation, ingestion pipelines, email and event automation |
 | **Cloud & Deployment** | AWS, GCP, Docker, managed databases, CI workflows |
 
-## Selected engineering work
+## Some Key Projects
 
 I keep this section focused on a small number of projects that best demonstrate research depth, end-to-end product engineering, and practical backend development.
 
